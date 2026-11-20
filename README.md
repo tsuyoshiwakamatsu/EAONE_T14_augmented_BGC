@@ -8,9 +8,18 @@
     - Mediterranean Sea: 10/01/2023-09/30/2025
 - Parameters:
     - CPHL
-    - BBP700 
+    - BBP700
+- Target Argo floats:  
+    - Norwegian Sea:
+        - O2 Argo: 3902114, 6903582
+        - BGC Argo: 1902698, 1902602
+    - Mediterranean Sea:
+        - O2 Argo: 5906993, 3902500
+        - BGC Argo: 1902605, 2903797
 
 ### Argo float selection
+
+See note/
 
 #### Norwegian Sea
 
