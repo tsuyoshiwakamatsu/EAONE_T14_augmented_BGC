@@ -13,7 +13,6 @@
 | [6903582](https://fleetmonitoring.euro-argo.eu/float/6903582) | O2 | ✓ | ✓ | ✓ |   |   | 2021-05-01 – current |
 
 <img src="figs/float_selection_nor.png" alt="Argo Floats in Norwegian Sea" width="70%">
-![Argo Floats in Norwegian Sea](figs/float_selection_nor.png)
 
 #### Mediterranean Sea
 
@@ -24,8 +23,7 @@
 | [5906993](https://fleetmonitoring.euro-argo.eu/float/5906993) | O2 | ✓ | ✓ | ✓ |   |   | 2023-11-26 – current |
 | [3902500](https://fleetmonitoring.euro-argo.eu/float/3902500) | O2 | ✓ | ✓ | ✓ |   |   | 2023-05-05 – 2026-10-22 |
 
-![Argo floats in Mediterranean Sea](figs/float_selection_med.png)
-
+<img src="figs/float_selection_med.png" alt="Argo Floats in Mediterranean Sea" width="70%">
 
 ### Inter-comparison matrix
 
