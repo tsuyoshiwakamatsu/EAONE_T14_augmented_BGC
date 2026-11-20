@@ -12,7 +12,7 @@
 | [3902114](https://fleetmonitoring.euro-argo.eu/float/3902114) | O2 | ✓ | ✓ | ✓ |   |   | 2021-07-07 – current |
 | [6903582](https://fleetmonitoring.euro-argo.eu/float/6903582) | O2 | ✓ | ✓ | ✓ |   |   | 2021-05-01 – current |
 
-
+<img src="figs/float_selection_nor.png" alt="Argo Floats in Norwegian Sea" width="80%">
 ![Argo Floats in Norwegian Sea](figs/float_selection_nor.png)
 
 #### Mediterranean Sea
