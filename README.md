@@ -1,5 +1,11 @@
 ## Script for EAONE Task 1.4 augmented BGC profiles
 
+### Settings
+
+- Depth range: 0-300m
+- Time range:
+    - Norwegian Sea: 01/01/2024-12/31/2025
+    - Mediterranean Sea: 10/01/2023-09/30/2025
 
 ### Argo float selection
 
