@@ -29,10 +29,21 @@
 
 #### Norwegian Sea O2 Argo (3902114, 6903582)
 
-| Package | SOCA | OGS | SubMAPP |
-|---|:---:|:---:|---|
-| SOCA    |     |  ●  |  ●  |
-| OGS     |  ●  |     |  ○  | 
-| SubMAPP |  ●  |  ○  |     | 
+| Package | SOCA | OGS | SubMAPP | BGC Argo |
+|---|:---:|:---:|:---:|---|
+| SOCA     |     |  ●  |  ●  | |
+| OGS      |  ●  |     |  ○  | |
+| SubMAPP  |  ●  |  ○  |     | |
+| BGC Argo |     |     |     | | 
+
+#### Norwegian Sea BGC Argo (3902114, 6903582)
+
+| Package | SOCA | OGS | SubMAPP | BGC Argo |
+|---|:---:|:---:|:---:|---|
+| SOCA     |     |  ●  |  ●  | ● |
+| OGS      |  ●  |     |  ○  |   |
+| SubMAPP  |  ●  |  ○  |     | ○ |
+| BGC Argo |  ●  |     |  ○  |   | 
 
 *Note: ● SOCA reprocessing ; ○ SubMAPP reprocessing * 
+
