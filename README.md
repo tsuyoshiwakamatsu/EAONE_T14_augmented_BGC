@@ -27,8 +27,8 @@
 - NERSC: Reprocess SubMAPP along Argo floats in
      - Norwegian Sea: 1902698, 1902602, 3902114, 6903582
 - CNR: Provide ML-based data along Argo floats in  
-     - Norwegian Sea: 1902698, 1902602, 3902114, 6903582
-     - Mediterranean Sea: 1902605, 2903797, 5906993, 3902500
+     - Norwegian Sea: 3902114, 6903582
+     - Mediterranean Sea: 5906993, 3902500
  
 ### Argo float selection
 
