@@ -6,6 +6,9 @@
 - Time range:
     - Norwegian Sea: 01/01/2024-12/31/2025
     - Mediterranean Sea: 10/01/2023-09/30/2025
+- Parameters:
+    - CPHL
+    - BBP700 
 
 ### Argo float selection
 
