@@ -17,6 +17,17 @@
         - O2 Argo: 5906993, 3902500
         - BGC Argo: 1902605, 2903797
 
+### Task summary
+
+- CNRS: Reprocess SOCA along Argo floats in
+     - Norwegian Sea: 1902698, 1902602, 3902114, 6903582
+     - Mediterranean Sea: 1902605, 2903797, 5906993, 3902500
+- NERSC: Reprocess SubMAPP along Argo floats in
+     - Norwegian Sea: 1902698, 1902602, 3902114, 6903582
+- CNR: Provide ML-based data along Argo floats in  
+     - Norwegian Sea: 1902698, 1902602, 3902114, 6903582
+     - Mediterranean Sea: 1902605, 2903797, 5906993, 3902500
+     - 
 ### Argo float selection
 
 **Note:** See [notebook](https://github.com/tsuyoshiwakamatsu/EAONE_T14_augmented_BGC/blob/main/note/WP1_Argo_selection.ipynb) for further detail.
@@ -30,6 +41,8 @@
 | [3902114](https://fleetmonitoring.euro-argo.eu/float/3902114) | O2 | ✓ | ✓ | ✓ |   |   | 2021-07-07 – current |
 | [6903582](https://fleetmonitoring.euro-argo.eu/float/6903582) | O2 | ✓ | ✓ | ✓ |   |   | 2021-05-01 – current |
 
+**Note:** ✓ Available parameters 
+
 <img src="figs/float_selection_nor.png" alt="Argo Floats in Norwegian Sea" width="70%">
 
 #### Mediterranean Sea
@@ -40,6 +53,8 @@
 | [2903797](https://fleetmonitoring.euro-argo.eu/float/2903797) | BGC | ✓ | ✓ | ✓ | ✓ | ✓ | 2021-07-08 – 2024-12-25 |
 | [5906993](https://fleetmonitoring.euro-argo.eu/float/5906993) | O2 | ✓ | ✓ | ✓ |   |   | 2023-11-26 – current |
 | [3902500](https://fleetmonitoring.euro-argo.eu/float/3902500) | O2 | ✓ | ✓ | ✓ |   |   | 2023-05-05 – 2026-10-22 |
+
+**Note:** ✓ Available parameters 
 
 <img src="figs/float_selection_med.png" alt="Argo Floats in Mediterranean Sea" width="70%">
 
@@ -54,7 +69,7 @@
 | SubMAPP  |  ○  |  ○  |     | |
 | BGC Argo |     |     |     | | 
 
-**Note:** ● SOCA reprocessing ; ○ SubMAPP reprocessing ; ✓ Exisiting Product
+**Note:** ● SOCA reprocessing ; ○ SubMAPP reprocessing ; ✓ Existing Product
 
 #### Norwegian Sea BGC Argo (3902114, 6903582)
 
@@ -65,7 +80,7 @@
 | SubMAPP  |  ○ |  ○ |     | ○ |
 | BGC Argo |  ✓  |  ✓  |  ✓ |   | 
 
-**Note:** ● SOCA reprocessing ; ○ SubMAPP reprocessing ; ✓ Exisiting Product
+**Note:** ● SOCA reprocessing ; ○ SubMAPP reprocessing ; ✓ Existing Product
 
 #### Mediterranean Sea O2 Argo (5906993, 3902500)
 
@@ -76,7 +91,7 @@
 | SubMAPP  |    |    |     |   |
 | BGC Argo |     |     |     | | 
 
-**Note:** ● SOCA reprocessing ; ○ SubMAPP reprocessing ; ✓ Exisiting Product
+**Note:** ● SOCA reprocessing ; ○ SubMAPP reprocessing ; ✓ Existing Product
 
 #### Mediterranean Sea BGC Argo (1902605, 2903797)
 
@@ -87,5 +102,5 @@
 | SubMAPP  |    |    |     |  |
 | BGC Argo |  ✓  |    |    |   | 
 
-**Note:** ● SOCA reprocessing ; ○ SubMAPP reprocessing ; ✓ Exisiting Product
+**Note:** ● SOCA reprocessing ; ○ SubMAPP reprocessing ; ✓ Existing Product
 
