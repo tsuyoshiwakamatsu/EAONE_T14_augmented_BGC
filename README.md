@@ -65,9 +65,9 @@
 | Package | SOCA | OGS | SubMAPP | BGC Argo |
 |---|:---:|:---:|:---:|---|
 | SOCA     |     |  ●  |    | ● |
-| OGS      |  ✓  |     |    | ✓ |
+| OGS      |  ✓  |     |    |  |
 | SubMAPP  |    |    |     |  |
-| BGC Argo |  ✓  |  ✓  |    |   | 
+| BGC Argo |  ✓  |    |    |   | 
 
 *Note: ● SOCA reprocessing ; ○ SubMAPP reprocessing ; ✓ Exisiting Product * 
 
