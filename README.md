@@ -47,7 +47,7 @@
 
 #### Norwegian Sea O2 Argo (3902114, 6903582)
 
-| Package | SOCA | OGS | SubMAPP | BGC Argo |
+| Package | vs SOCA | vs OGS | vs SubMAPP | vs BGC Argo |
 |---|:---:|:---:|:---:|---|
 | SOCA     |     |  ●  | ●  | |
 | OGS      |  ✓ |     |  ✓  | |
@@ -58,7 +58,7 @@
 
 #### Norwegian Sea BGC Argo (3902114, 6903582)
 
-| Package | SOCA | OGS | SubMAPP | BGC Argo |
+| Package | vs SOCA | vs OGS | vs SubMAPP | vs BGC Argo |
 |---|:---:|:---:|:---:|---|
 | SOCA     |     |  ●  |  ● | ● |
 | OGS      |  ✓  |     | ✓  |   |
@@ -69,7 +69,7 @@
 
 #### Mediterranean Sea O2 Argo (5906993, 3902500)
 
-| Package | SOCA | OGS | SubMAPP | BGC Argo |
+| Package | vs SOCA | vs OGS | vs SubMAPP | vs BGC Argo |
 |---|:---:|:---:|:---:|---|
 | SOCA     |     |  ●  |    |   |
 | OGS      |  ✓  |     |    |   |
@@ -80,7 +80,7 @@
 
 #### Mediterranean Sea BGC Argo (1902605, 2903797)
 
-| Package | SOCA | OGS | SubMAPP | BGC Argo |
+| Package | vs SOCA | vs OGS | vs SubMAPP | vs BGC Argo |
 |---|:---:|:---:|:---:|---|
 | SOCA     |     |  ●  |    | ● |
 | OGS      |  ✓  |     |    |  |
