@@ -54,7 +54,7 @@
 | SubMAPP  |  ○  |  ○  |     | |
 | BGC Argo |     |     |     | | 
 
-*Note: ● SOCA reprocessing ; ○ SubMAPP reprocessing ; ✓ Exisiting Product* 
+**Note:** ● SOCA reprocessing ; ○ SubMAPP reprocessing ; ✓ Exisiting Product
 
 #### Norwegian Sea BGC Argo (3902114, 6903582)
 
@@ -65,7 +65,7 @@
 | SubMAPP  |  ○ |  ○ |     | ○ |
 | BGC Argo |  ✓  |  ✓  |  ✓ |   | 
 
-*Note: ● SOCA reprocessing ; ○ SubMAPP reprocessing ; ✓ Exisiting Product * 
+**Note:** ● SOCA reprocessing ; ○ SubMAPP reprocessing ; ✓ Exisiting Product
 
 #### Mediterranean Sea O2 Argo (5906993, 3902500)
 
@@ -76,7 +76,7 @@
 | SubMAPP  |    |    |     |   |
 | BGC Argo |     |     |     | | 
 
-*Note: ● SOCA reprocessing ; ○ SubMAPP reprocessing ; ✓ Exisiting Product * 
+**Note:** ● SOCA reprocessing ; ○ SubMAPP reprocessing ; ✓ Exisiting Product
 
 #### Mediterranean Sea BGC Argo (1902605, 2903797)
 
@@ -87,5 +87,5 @@
 | SubMAPP  |    |    |     |  |
 | BGC Argo |  ✓  |    |    |   | 
 
-*Note: ● SOCA reprocessing ; ○ SubMAPP reprocessing ; ✓ Exisiting Product * 
+**Note:** ● SOCA reprocessing ; ○ SubMAPP reprocessing ; ✓ Exisiting Product
 
