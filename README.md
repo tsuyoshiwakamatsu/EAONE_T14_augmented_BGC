@@ -12,6 +12,9 @@
 | [3902114](https://fleetmonitoring.euro-argo.eu/float/3902114) | ✓ | ✓ | ✓ |   |   | 2021-07-07 – current |
 | [6903582](https://fleetmonitoring.euro-argo.eu/float/6903582) | ✓ | ✓ | ✓ |   |   | 2021-05-01 – current |
 
+
+![Argo Floats in Norwegian Sea](figs/float_selection_nor.png)
+
 #### Mediterranean Sea
 
 | WMO | Temp | Salinity | Oxygen | Chlorophyll-a | BBP700 | Operation Period |
@@ -20,3 +23,5 @@
 | [2903797](https://fleetmonitoring.euro-argo.eu/float/2903797) | ✓ | ✓ | ✓ | ✓ | ✓ | 2021-07-08 – 2024-12-25 |
 | [5906993](https://fleetmonitoring.euro-argo.eu/float/5906993) | ✓ | ✓ | ✓ |   |   | 2023-11-26 – current |
 | [3902500](https://fleetmonitoring.euro-argo.eu/float/3902500) | ✓ | ✓ | ✓ |   |   | 2023-05-05 – 2026-10-22 |
+
+![Argo floats in Mediterranean Sea](figs/float_selection_med.png)
