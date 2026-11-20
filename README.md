@@ -31,19 +31,19 @@
 
 | Package | SOCA | OGS | SubMAPP | BGC Argo |
 |---|:---:|:---:|:---:|---|
-| SOCA     |     |  ●  |    | |
-| OGS      |  ✓ |     |    | |
-| SubMAPP  |    |    |     | |
+| SOCA     |     |  ●  | ●  | |
+| OGS      |  ✓ |     |  ✓  | |
+| SubMAPP  |  ○  |  ○  |     | |
 | BGC Argo |     |     |     | | 
 
 #### Norwegian Sea BGC Argo (3902114, 6903582)
 
 | Package | SOCA | OGS | SubMAPP | BGC Argo |
 |---|:---:|:---:|:---:|---|
-| SOCA     |     |  ●  |    | ● |
-| OGS      |  ✓  |     |    |   |
-| SubMAPP  |    |    |     |  |
-| BGC Argo |     |     |    |   | 
+| SOCA     |     |  ●  |  ● | ● |
+| OGS      |  ✓  |     | ✓  |   |
+| SubMAPP  |  ○ |  ○ |     | ○ |
+| BGC Argo |  ✓  |  ✓  |  ✓ |   | 
 
 #### Mediterranean Sea O2 Argo (5906993, 3902500)
 
