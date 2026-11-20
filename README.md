@@ -16,6 +16,7 @@
     - Mediterranean Sea:
         - O2 Argo: 5906993, 3902500
         - BGC Argo: 1902605, 2903797
+- Metrics: RMSD, Bias, Correlation
 
 ### Task summary
 
