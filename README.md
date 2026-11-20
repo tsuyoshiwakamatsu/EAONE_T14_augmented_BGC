@@ -30,9 +30,9 @@
 #### Norwegian Sea O2 Argo (3902114, 6903582)
 
 | Package | SOCA | OGS | SubMAPP |
-|---|:---:|:---:|:---:|     |
+|---|:---:|:---:|---|
 | SOCA    |     |  ●  |  ●  |
 | OGS     |  ●  |     |  ○  | 
-| SubMAPP |  ○  |  ●  |     | 
+| SubMAPP |  ●  |  ○  |     | 
 
-● ○
+*Note: ● SOCA reprocessing ; ○ SubMAPP reprocessing * 
