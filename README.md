@@ -19,7 +19,7 @@
 
 ### Argo float selection
 
-*Note: See [notebook](https://github.com/tsuyoshiwakamatsu/EAONE_T14_augmented_BGC/blob/main/note/WP1_Argo_selection.ipynb) for further detail.*
+**Note:* See [notebook](https://github.com/tsuyoshiwakamatsu/EAONE_T14_augmented_BGC/blob/main/note/WP1_Argo_selection.ipynb) for further detail.
 
 #### Norwegian Sea
 
