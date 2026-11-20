@@ -45,7 +45,7 @@
 
 **Note:** ✓ Available parameters 
 
-<img src="figs/float_selection_nor.png" alt="Argo Floats in Norwegian Sea" width="70%">
+<img src="figs/float_selection_nor.png" alt="Argo Floats in Norwegian Sea" width="80%">
 
 #### Mediterranean Sea
 
@@ -58,7 +58,7 @@
 
 **Note:** ✓ Available parameters 
 
-<img src="figs/float_selection_med.png" alt="Argo Floats in Mediterranean Sea" width="70%">
+<img src="figs/float_selection_med.png" alt="Argo Floats in Mediterranean Sea" width="80%">
 
 ### Inter-comparison matrix
 
