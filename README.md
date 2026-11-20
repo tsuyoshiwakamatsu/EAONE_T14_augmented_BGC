@@ -27,7 +27,7 @@
 - CNR: Provide ML-based data along Argo floats in  
      - Norwegian Sea: 1902698, 1902602, 3902114, 6903582
      - Mediterranean Sea: 1902605, 2903797, 5906993, 3902500
-     - 
+ 
 ### Argo float selection
 
 **Note:** See [notebook](https://github.com/tsuyoshiwakamatsu/EAONE_T14_augmented_BGC/blob/main/note/WP1_Argo_selection.ipynb) for further detail.
