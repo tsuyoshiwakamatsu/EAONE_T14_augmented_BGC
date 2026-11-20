@@ -1,4 +1,4 @@
-## Script for EAONE Task 1.4 augmented BGC profiles inter-comparisons
+## EAONE Task 1.4 augmented BGC profiles inter-comparisons
 
 ### Settings
 
