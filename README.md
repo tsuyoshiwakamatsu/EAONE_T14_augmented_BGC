@@ -49,7 +49,7 @@
 
 #### Mediterranean Sea
 
-| WMO | Type | TEMP | PSAL | DOX2 | CPHL | BBP700 | Operation Period |
+| WMO | Type | TEMP | PSAL | DOX2 | CPHL | BBP700 | Operation Period | SOCA | OGS | SubMAPP |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|
 | [1902605](https://fleetmonitoring.euro-argo.eu/float/1902605) | BGC | ✓ | ✓ | ✓ | ✓ | ✓ | 2023-11-20 – current | ● |   |   |
 | [2903797](https://fleetmonitoring.euro-argo.eu/float/2903797) | BGC | ✓ | ✓ | ✓ | ✓ | ✓ | 2021-07-08 – 2024-12-25 | ● |   |   |
